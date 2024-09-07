@@ -18,4 +18,5 @@ A simple and efficient command-line-based contact management system implemented 
    git clone https://github.com/kbalam/techplement.git
 
 2. **Navigate to the project directory:**:
-   cd techplement/week\ 1/
+   ```sh
+   cd techplement/Week_1/
