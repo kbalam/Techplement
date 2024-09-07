@@ -19,4 +19,4 @@ A simple and efficient command-line-based contact management system implemented 
 
 2. **Navigate to the project directory:**:
    ```sh
-   cd techplement/Week_1/
+   cd techplement/Week\ 1/
